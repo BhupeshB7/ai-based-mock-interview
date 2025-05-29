@@ -1,0 +1,39 @@
+Generated Questions: [
+  "1.  How are you doing today, Bhupesh?  It's great to chat with you.",
+  '2.  Thanks for sharing your resume; I noticed some impressive projects. Can you tell me a litt
+le more about your favourite one and why you enjoyed working on it?',
+  '3. Tell me about your experience using Node.js in a production environment. What challenges di
+d you face, and how did you overcome them?',
+  "4.  You mention experience with the MERN stack. Let's delve into MongoDB. Describe a situation
+ where you had to optimize a MongoDB query for performance.  What techniques did you use, and wha
+t was the outcome?",
+  '5.  Describe your approach to designing RESTful APIs using Express.js.  Give a specific exampl
+e from a project where you had to consider API design best practices.',
+  '6.  How do you handle asynchronous operations in Node.js, particularly in scenarios involving 
+multiple database interactions? Walk me through your typical approach and any preferred libraries
+ or patterns you utilize.',
+  "7.  Let's talk error handling.  How do you typically implement robust error handling in your N
+ode.js applications, including logging and reporting mechanisms? Provide an example.",
+  '8.  Explain your understanding of different database indexing strategies in MongoDB and how yo
+u decide which index to choose for optimal performance.',
+  "9.  Suppose you're tasked with building a highly scalable and fault-tolerant backend system.  
+How would you design the architecture to ensure high availability and performance?",
+  "10. Imagine a scenario where your Node.js application experiences a sudden surge in traffic. D
+escribe your strategy for handling this situation and preventing application crashes.  How would 
+you monitor the application's performance?",
+  '11. How familiar are you with different deployment strategies for Node.js applications (e.g., 
+Docker, Kubernetes)?  Describe a recent deployment experience you had and any challenges encounte
+red.',
+  '12.  Security is paramount.  Explain your approach to securing a Node.js/Express.js/MongoDB ap
+plication, addressing issues like SQL injection, cross-site scripting (XSS), and authentication.'
+,
+  '13.  What are your preferred tools and techniques for debugging and testing your backend code?
+  Can you provide a specific example of a bug you encountered and how you efficiently tracked it 
+down?',
+  '14. Besides Node.js, Express.js, and MongoDB, are there any other technologies or languages yo
+u are familiar with or interested in learning? Why?',
+  '15.  Looking back at your experience building the Eye Studio application, what would you do di
+fferently knowing what you know now?',
+  '16.  Where do you see yourself in the next 2-3 years, and how does this freelance backend deve
+loper role fit into your career aspirations?'
+]

@@ -17,7 +17,7 @@ const protect = (req, res, next) => {
 };
 
 // Ensure 'Resumes' folder exists
-const resumeFolderPath = path.join(__dirname, '../../public/Resumes');
+const resumeFolderPath = path.join(__dirname, 'public/Resumes');
 if (!fs.existsSync(resumeFolderPath)) {
   fs.mkdirSync(resumeFolderPath, { recursive: true });
 }
